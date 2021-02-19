@@ -809,12 +809,18 @@
 
 @page {
     margin-bottom: 5pt;
-    margin-left: 200px;
-    margin-right: 200px;
+    margin-left: 0;
+    margin-right: 0;
     margin-top: 5pt;
     padding-bottom: 0;
     padding-left: 0;
     padding-right: 0;
     padding-top: 0
     }
+p {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 300px;
+  margin-left: 300px;
+}
 
