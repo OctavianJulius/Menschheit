@@ -817,4 +817,9 @@
     padding-right: 0;
     padding-top: 0
     }
-
+div {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 400px;
+  margin-left: 400px;
+}
