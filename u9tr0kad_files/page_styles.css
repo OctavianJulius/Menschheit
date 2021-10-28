@@ -1,0 +1,40 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "Adobe Caslon Pro 025";
+    font-style: normal;
+    font-weight: bold;
+    src: url(fonts/00001.otf)
+    }
+@font-face {
+    font-family: "Adobe Caslon Pro 025";
+    font-style: italic;
+    font-weight: bold;
+    src: url(fonts/00002.otf)
+    }
+@font-face {
+    font-family: "Adobe Caslon Pro 025";
+    font-style: oblique;
+    font-weight: bold;
+    src: url(fonts/00002.otf)
+    }
+@font-face {
+    font-family: "Adobe Caslon Pro 025";
+    font-style: normal;
+    font-weight: normal;
+    src: url(fonts/00003.otf)
+    }
+@font-face {
+    font-family: "Adobe Caslon Pro 025";
+    font-style: italic;
+    font-weight: normal;
+    src: url(fonts/00004.otf)
+    }
+@font-face {
+    font-family: "Adobe Caslon Pro 025";
+    font-style: oblique;
+    font-weight: normal;
+    src: url(fonts/00004.otf)
+    }
